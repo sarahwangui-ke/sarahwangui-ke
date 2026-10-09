@@ -1,70 +1,58 @@
-Hi, I'm Sarah Wangui 👋
-Business Student | Digital Skills | Remote Work | Customer Support
+# Hi, I'm Sarah Wangari 👋
 
-Welcome to my GitHub profile! I'm a Business student at Mount Kenya University (MKU) with an interest in business, technology, digital work, customer support, and continuous professional development.
+**Business Student | Aspiring Web Developer | Digital Customer Support**
 
-I enjoy learning new digital tools, solving problems, communicating with people, and finding practical ways to use technology to improve everyday work.
+Welcome to my GitHub profile! I'm a Business student at Mount Kenya University (MKU), currently in **Second Year, Semester One**, based in Kenya.
 
-🎓 Education
+I'm interested in combining business knowledge with technology to solve practical problems. I bring experience in online customer communication, customer support, follow-ups, and remote work, and I'm building my technical skills through hands-on learning.
 
-Mount Kenya University (MKU)
-Bachelor's Degree in Business
-Second Year, Semester One
+## 🎯 Goals
 
-💻 Skills
-Microsoft Office
-Google Workspace
-Online research
-Data entry
-Customer support
-Digital communication
-Remote work
-Social media management
-Online collaboration
-Basic business analysis
-Internet research
-Time management
-Problem solving
-Written communication
-Customer relationship management
-🌐 Professional Experience
+- Develop practical website development skills.
+- Build a portfolio of small, well-documented projects.
+- Learn to use Git and GitHub to track and present my work.
+- Combine business knowledge with digital tools to create useful solutions.
 
-I have experience working in online and remote environments, communicating with customers, managing conversations, following up with clients, and working toward performance and sales objectives.
+## 🌱 Currently Learning
 
-My experience has helped me develop strong communication, adaptability, customer-service, and digital-work skills.
+- HTML and CSS
+- JavaScript fundamentals
+- Git and GitHub
+- Website structure, usability, and responsive design
 
-📂 Portfolio
-Business Analysis Project
+*These are learning goals; I will add technologies to my demonstrated skills as I build and complete projects.*
 
-A collection of business research and analysis projects demonstrating my ability to research information, identify trends, and communicate findings clearly.
+## 💼 Skills and Experience
 
-Customer Support Project
+### Current strengths
+- Online customer support and written communication
+- Customer follow-ups and relationship management
+- Online research and data entry
+- Digital communication and remote collaboration
+- Microsoft Office and Google Workspace
+- Time management, adaptability, and problem-solving
 
-Examples of professional customer communication, follow-ups, problem-solving, and customer relationship management.
+### Technical development
+I'm working toward practical experience in front-end web development. I plan to add completed projects here with clear descriptions, screenshots where useful, and instructions for running or viewing each project.
 
-Digital Skills Project
+## 📁 Portfolio
 
-Practical examples of using digital tools, online research, productivity software, and remote-work platforms.
+I'm building this portfolio as I learn. Future projects may include:
 
-🌱 Currently Learning
-Business and entrepreneurship
-Digital skills
-Data analysis
-Professional communication
-Technology and productivity tools
-🎯 Career Interests
+- **Personal portfolio website** — a simple website introducing my background and goals.
+- **Business research project** — a clearly documented research or analysis exercise.
+- **Customer support workflow example** — a sample, privacy-safe workflow for organizing customer follow-ups.
 
-I'm interested in opportunities involving:
+These are planned project ideas, not completed projects. I'll update this section when each project is ready.
 
-Business administration
-Customer support
-Virtual assistance
-Digital work
-Business development
-Data and research
-Remote work
-Technology-enabled business
-📫 Contact
+## 🎓 Education
 
-Email: sarahwangui609@gmail.com
-Location: Nakuru, Kenya
+**Mount Kenya University (MKU)**  
+Business studies — Second Year, Semester One
+
+## 🤝 Connect
+
+- GitHub: [@sarahwangui-ke](https://github.com/sarahwangui-ke)
+- Location: Kenya
+
+Thank you for visiting my profile. I'm learning step by step and look forward to sharing my progress and completed work here.
